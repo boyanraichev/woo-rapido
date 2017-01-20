@@ -1,0 +1,32 @@
+#rapido_shipment {  }
+#rapido_shipment table { width: 100%; }
+#rapido_shipment table th { width: 25%; }
+.rapido100 { width: 100%; display: inline-block; } 
+@-webkit-keyframes spin { 
+  100% { 
+    -webkit-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
+  } 
+} 
+@keyframes spin { 
+  100% { 
+    -webkit-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
+  } 
+} 
+.spinner-inline {
+  display: inline-block;
+  margin: 1px 5px;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  border: solid 5px #eeeeee;
+  border-top-color: #000000;
+  -webkit-animation: spin 1s infinite linear;
+  animation: spin 1s infinite linear;
+}

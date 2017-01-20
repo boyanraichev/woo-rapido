@@ -1,0 +1,1929 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kosher Shopping Cart\n"
+"POT-Creation-Date: 2017-01-14 23:47+0200\n"
+"PO-Revision-Date: 2017-01-14 23:48+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg_BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__;_\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/ajax.php:92 ../includes/checkout.php:99
+msgid "None found..."
+msgstr "Няма намерени..."
+
+#: ../includes/ajax.php:128
+msgid "No streets found"
+msgstr "Не са открити улици"
+
+#: ../includes/checkout.php:88
+msgid ""
+"Start typing and choose from the dropdown list. If your city does not show "
+"up in the list, enter it manually."
+msgstr ""
+"Започнете да изписвате името и изберете населеното място от падащото меню. "
+"Ако не намирате вашето населено място в списъка, изпишете го цялото."
+
+#: ../includes/checkout.php:95
+msgid "Office"
+msgstr "Офис"
+
+#: ../includes/checkout.php:96
+msgid ""
+"Do not select an office if you would like your order to be delivered to your "
+"address."
+msgstr "Не избирайте офис ако желаете пратката да бъде доставена до дома ви."
+
+#: ../includes/checkout.php:102 ../includes/checkout.php:159
+#: ../includes/admin/fulfilment.php:145
+msgid "Street / Quarter"
+msgstr "Улица / Квартал"
+
+#: ../includes/checkout.php:103
+msgid ""
+"Start typing your street or quarter name here. If you do not find it in the "
+"dropdown list, enter it manually."
+msgstr ""
+"Започнете да изписвате улицата или квартала тук. Ако не го намирате в "
+"списъка в падащото меню, изпишете го изцяло."
+
+#: ../includes/checkout.php:104 ../includes/checkout.php:160
+msgid "Start typing and choose from the list"
+msgstr "Започнете да пишете и изберете от списъка"
+
+#: ../includes/checkout.php:109 ../includes/checkout.php:162
+msgid "Number"
+msgstr "№"
+
+#: ../includes/checkout.php:111
+msgid "Street/Building #"
+msgstr "Улица/блок №"
+
+#: ../includes/checkout.php:116 ../includes/admin/fulfilment.php:155
+msgid "Entrance"
+msgstr "Вход"
+
+#: ../includes/checkout.php:123 ../includes/admin/fulfilment.php:159
+msgid "Floor"
+msgstr "Етаж"
+
+#: ../includes/checkout.php:130 ../includes/admin/fulfilment.php:163
+msgid "Apartment"
+msgstr "Апартамент"
+
+#: ../includes/checkout.php:163
+msgid "Street or building number"
+msgstr "Номер на улица или блок"
+
+#: ../includes/checkout.php:193
+msgid ""
+"You need to fill in the special address fields for this delivery method."
+msgstr "Трябва да попълните специалните полета за този метод на доставка."
+
+#: ../includes/checkout.php:197
+msgid "You need to choose an office or enter a street address."
+msgstr "Трябва да изберете офис или да въведете адрес с улица и номер."
+
+#: ../includes/checkout.php:200
+msgid "You need to enter a street/building number."
+msgstr "Трябва да въведете номер на улица/блок"
+
+#: ../includes/init.php:72
+msgid "Please, wait..."
+msgstr "Моля, изчакайте..."
+
+#: ../includes/init.php:73
+msgid "Could not create shipment. Check the fields and try again."
+msgstr ""
+"Неуспешно създаване на товарителница. Проверете данните и опитайте отново."
+
+#: ../includes/init.php:74
+msgid ""
+"Missing CITY ID. Please, enter the city again and choose from the dropdown "
+"list!"
+msgstr ""
+"Липсва ID на град. Моля, въведете града отново и го изберете от падащото "
+"меню!"
+
+#: ../includes/init.php:75
+msgid "Missing Country ID. Please, check user country and update order!"
+msgstr ""
+"Липсва ID на държава. Моля, проверете държавата на клиента и обновете "
+"поръчката!"
+
+#: ../includes/init.php:76
+msgid "Print Shipment"
+msgstr "Печат на товарителница"
+
+#: ../includes/method.php:23 ../includes/method.php:96
+msgid "Rapido Courier"
+msgstr "Рапидо Куриер"
+
+#: ../includes/method.php:24
+msgid "Rapido Shipping Method"
+msgstr "Доставка с Рапидо"
+
+#: ../includes/method.php:58
+msgid "Rapido"
+msgstr "Рапидо"
+
+#: ../includes/method.php:87
+msgid "Enable"
+msgstr "Активен"
+
+#: ../includes/method.php:89
+msgid "Enable this shipping method."
+msgstr "Позволяване на този метод на доставка"
+
+#: ../includes/method.php:93
+msgid "Name"
+msgstr "Име"
+
+#: ../includes/method.php:95
+msgid "The name of this shipping method for the customers"
+msgstr "Името на този метод за доставка към клиентите"
+
+#: ../includes/method.php:99
+msgid "Test"
+msgstr "Тест"
+
+#: ../includes/method.php:101
+msgid "Run in test mode."
+msgstr "Оперирай в тестова среда"
+
+#: ../includes/method.php:105
+msgid "Username"
+msgstr "Потребителско име"
+
+#: ../includes/method.php:107
+msgid "Username for Rapido system"
+msgstr "Име за системата на Рапидо"
+
+#: ../includes/method.php:111
+msgid "Password"
+msgstr "Парола"
+
+#: ../includes/method.php:113
+msgid "Password for Rapido system"
+msgstr "Парола за системата на Рапидо"
+
+#: ../includes/method.php:117
+msgid "Your city ID"
+msgstr "ID на вашия град"
+
+#: ../includes/method.php:119
+msgid "Your city ID from Rapido system"
+msgstr "ID на вашия град от системата на Рапидо"
+
+#: ../includes/method.php:123
+msgid "Service 1 Subservice"
+msgstr ""
+
+#: ../includes/method.php:125
+msgid "Subservice ID for same-city deliveries"
+msgstr "ID на под-услуга за градски доставки"
+
+#: ../includes/method.php:129
+msgid "Service 2 Subservice"
+msgstr ""
+
+#: ../includes/method.php:131
+msgid "Subservice ID for deliveries to other cities"
+msgstr "ID на под-услуга за доставки в България"
+
+#: ../includes/method.php:135
+msgid "Load countries"
+msgstr "Заредете държави"
+
+#: ../includes/method.php:137
+msgid "Refresh Rapido countries database from file"
+msgstr "Обнови базата данни с държави от системата на Рапидо"
+
+#: ../includes/method.php:141
+msgid "Load cities"
+msgstr "Зареди градове"
+
+#: ../includes/method.php:143
+msgid "Refresh Rapido cities database (takes a while)"
+msgstr "Обнови базата данни с градове от системата на Рапидо (отнема време)"
+
+#: ../includes/method.php:147
+msgid "Load streets"
+msgstr "Зареди улици"
+
+#: ../includes/method.php:149
+msgid "Refresh Rapido streets database (takes a while)"
+msgstr "Обнови базата данни с улици от системата на Рапидо (отнема време)"
+
+#: ../includes/method.php:153
+msgid "Load quarters"
+msgstr "Зареди квартали"
+
+#: ../includes/method.php:155
+msgid "Refresh Rapido neighborhoods database"
+msgstr "Обнови базата данни с квартали от системата на Рапидо"
+
+#: ../includes/method.php:162
+msgid "Flat Rate"
+msgstr "Фиксирана стойност"
+
+#: ../includes/method.php:164
+msgid "Flat rate price. Leave blank for actual price calculation."
+msgstr ""
+"Фиксирана цена на доставка. Оставете полето празно за изчисляване на реална "
+"цена."
+
+#: ../includes/method.php:168
+msgid "Free Shipping"
+msgstr "Безплатна доставка"
+
+#: ../includes/method.php:170
+msgid "Free shipping above this order value"
+msgstr "Безплатна доставка над тази стойност на поръчка"
+
+#: ../includes/method.php:174
+msgid "Deliver to Office"
+msgstr "Доставка до офис"
+
+#: ../includes/method.php:176
+msgid "Offer option for pick-up from Rapido office"
+msgstr "Предложете опцията за доставка до офис на Рапидо"
+
+#: ../includes/method.php:180
+msgid "Deliver to Door"
+msgstr "Доставка на адрес"
+
+#: ../includes/method.php:182
+msgid "Offer option for delivery to customer address"
+msgstr "Предложете опцията за доставка до адрес"
+
+#: ../includes/admin/fulfilment.php:41
+msgid "Rapido Shipping"
+msgstr "Доставка с Рапидо"
+
+#: ../includes/admin/fulfilment.php:51
+msgid "Manage shipment with Rapido"
+msgstr "Управление на товарителници Рапидо"
+
+#: ../includes/admin/fulfilment.php:93
+msgid "First Name"
+msgstr "Име"
+
+#: ../includes/admin/fulfilment.php:97
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: ../includes/admin/fulfilment.php:103
+msgid "Company"
+msgstr "Фирма"
+
+#: ../includes/admin/fulfilment.php:109
+msgid "City ID"
+msgstr "ID на град"
+
+#: ../includes/admin/fulfilment.php:113
+msgid "City"
+msgstr "Град"
+
+#: ../includes/admin/fulfilment.php:114
+msgid "Search for city"
+msgstr "Търсене на град"
+
+#: ../includes/admin/fulfilment.php:117
+msgid "Postcode"
+msgstr "Пощенски код"
+
+#: ../includes/admin/fulfilment.php:123
+msgid "Office ID"
+msgstr "ID на офис"
+
+#: ../includes/admin/fulfilment.php:127
+msgid "Deliver to office"
+msgstr "Доставка до офис"
+
+#: ../includes/admin/fulfilment.php:135
+msgid "Quarter ID"
+msgstr "ID на квартал"
+
+#: ../includes/admin/fulfilment.php:139
+msgid "Street ID"
+msgstr "ID на улица"
+
+#: ../includes/admin/fulfilment.php:146
+msgid "Search for street"
+msgstr "Търсене на улица/квартал"
+
+#: ../includes/admin/fulfilment.php:149
+msgid "Street or Building Number"
+msgstr "Улица / блок №"
+
+#: ../includes/admin/fulfilment.php:169
+msgid "Cash on delivery value"
+msgstr "Стойност наложен платеж"
+
+#: ../includes/admin/fulfilment.php:173
+msgid "Insurance"
+msgstr "Застраховка"
+
+#: ../includes/admin/fulfilment.php:176
+msgid "Fragile"
+msgstr "Чупливо"
+
+#: ../includes/admin/fulfilment.php:181
+msgid "Tracking number"
+msgstr "Номер за проследяване"
+
+#: ../includes/admin/fulfilment.php:185
+msgid "Contents of package"
+msgstr "Съдържание на пратката"
+
+#: ../includes/admin/fulfilment.php:186
+msgid "Describe order contents"
+msgstr "Опишете съдържанието накратко"
+
+#: ../includes/admin/fulfilment.php:200
+msgid "Print shipment"
+msgstr "Печат на товарителница"
+
+#: ../includes/admin/fulfilment.php:204
+msgid "Create shipment"
+msgstr "Създаване на товарителница"
+
+#: ../includes/admin/fulfilment.php:209
+msgid ""
+"If City ID and Postcode are blank, you must enter the city name again and "
+"choose it from the dropdown list. For international shipments please use "
+"Rapido website only."
+msgstr ""
+"Ако CITY ID и пощенския код са празни, трябва въведете името на населеното "
+"място отново и да изберете от падащото меню. "
+
+#~ msgid "Missing address"
+#~ msgstr "Липсва адрес"
+
+#~ msgid "Missing email."
+#~ msgstr "Липсва имейл"
+
+#~ msgid "This email does not seem to be valid"
+#~ msgstr "Този имейл изглежда невалиден"
+
+#~ msgid "Missing name."
+#~ msgstr "Липсва име"
+
+#~ msgid "Missing country."
+#~ msgstr "Липсва държава"
+
+#~ msgid "Use this address"
+#~ msgstr "Използвай този адрес"
+
+#~ msgid "Email"
+#~ msgstr "Имейл"
+
+#~ msgid "Mobile phone"
+#~ msgstr "Телефон"
+
+#~ msgid "Address 1"
+#~ msgstr "Адрес 1"
+
+#~ msgid "Address 2"
+#~ msgstr "Адрес 2"
+
+#~ msgid "ZIP"
+#~ msgstr "Пощенски код"
+
+#~ msgid "Country"
+#~ msgstr "Държава"
+
+#~ msgid "Please, enter an address"
+#~ msgstr "Моля, въведете адрес"
+
+#~ msgid "This name does not seem to be valid"
+#~ msgstr "Името изглежда невалидно"
+
+#~ msgid "Name field cannot be blank"
+#~ msgstr "Попълването на име е задължително"
+
+#~ msgid "Email field cannot be blank"
+#~ msgstr "Попълването на имейл е задължително"
+
+#~ msgid "This address does not seem to be valid"
+#~ msgstr "Този адрес изглежда невалиден"
+
+#~ msgid "Address field cannot be blank"
+#~ msgstr "Попълването на адрес е задължително"
+
+#~ msgid "City field cannot be blank"
+#~ msgstr "Попълването на град е задължително"
+
+#~ msgid "Postal code cannot be blank"
+#~ msgstr "Попълването на пощенски код е задължително"
+
+#~ msgid "Country cannot be blank"
+#~ msgstr "Избирането на държава е задължително"
+
+#~ msgid "Could not validate address. Please, enter the missing information."
+#~ msgstr ""
+#~ "Неуспешно валидиране на адреса. Моля, въведете липсващата информация."
+
+#~ msgid "The product was added to your cart"
+#~ msgstr "Продуктът беше добавен в кошницата ви"
+
+#~ msgid "Currently out of stock"
+#~ msgstr "В момента не е наличен"
+
+#~ msgid "This product is already in your cart"
+#~ msgstr "Този продукт е вече във вашата кошница"
+
+#~ msgid "Some products are not available in the chosen quantity"
+#~ msgstr "Някои продукти не са налични в избраното количество"
+
+#~ msgid "Not available in the chosen quantity"
+#~ msgstr "Някои продукти не са налични в избраното количество"
+
+#~ msgid "This code is not valid for this purchase"
+#~ msgstr "Този код не е валиден за тази поръчка"
+
+#~ msgid "User:"
+#~ msgstr "Клиент:"
+
+#~ msgid "Your cart is empty"
+#~ msgstr "Вашата кошница е празна"
+
+#~ msgid "Gift wrap"
+#~ msgstr "Опаковка за подарък"
+
+#~ msgid "You cannot use this payment method"
+#~ msgstr "Не може да използвате този метод на плащане"
+
+#~ msgid "No payment method selected"
+#~ msgstr "Не е избран метод на плащане"
+
+#~ msgid "You need to agree to the terms & conditions"
+#~ msgstr "Трябва да маркирате, че сте съгласни с нашите условия за ползване"
+
+#~ msgid "Could not place order. Please, try again."
+#~ msgstr "Неуспешно запазване на поръчката. Моля, опитайте отново."
+
+#~ msgid "Could not place order. Address was not saved."
+#~ msgstr "Неуспешно запазване на поръчката. Адресът не е запазен."
+
+#~ msgid "Some prices have changed"
+#~ msgstr "Някои цени са променени."
+
+#~ msgid "The price of this product has changed"
+#~ msgstr "Цените на този продукт е променена"
+
+#~ msgid "Use code"
+#~ msgstr "Приложи код"
+
+#~ msgid "Checkout"
+#~ msgstr "Поръчка"
+
+#~ msgid "Address"
+#~ msgstr "Адрес"
+
+#~ msgid "enter a new address"
+#~ msgstr "въведете нов адрес"
+
+#~ msgid "Shipping Options"
+#~ msgstr "Доставка"
+
+#~ msgid "Shipping instructions"
+#~ msgstr "Инструкции за доставка"
+
+#~ msgid "Next"
+#~ msgstr "Напред"
+
+#~ msgid "Go back"
+#~ msgstr "Назад"
+
+#~ msgid "Payment & Confirmation"
+#~ msgstr "Плащане и потвърждение"
+
+#~ msgid "change your order"
+#~ msgstr "промени поръчката"
+
+#~ msgid "add"
+#~ msgstr "добави"
+
+#~ msgid "change"
+#~ msgstr "промени"
+
+#~ msgid "Shipping method"
+#~ msgstr "Метод на доставка"
+
+#~ msgid "Choose your payment method"
+#~ msgstr "Изберете начин на плащане"
+
+#~ msgid "I agree to the"
+#~ msgstr "Съгласен съм с"
+
+#~ msgid "Terms & Conditions"
+#~ msgstr "условията за ползване"
+
+#~ msgid "Place Order"
+#~ msgstr "Поръчка"
+
+#~ msgid "Your order cannot be completed as there is missing data"
+#~ msgstr ""
+#~ "Вашата поръчка не може да бъде приключена поради липсваща информация"
+
+#~ msgid "Thank you your order!"
+#~ msgstr "Благодарим ви за поръчката!"
+
+#~ msgid "Please, retain this order number for future reference"
+#~ msgstr "Моля, запазете този номер на поръчка"
+
+#~ msgid "You will receive an email with the complete order details!"
+#~ msgstr "Ще получите пълната информация за тази поръчка по имейл!"
+
+#~ msgid "This does not seem to be a valid page at the moment!"
+#~ msgstr "Това не е валидна страница към момента!"
+
+#~ msgid "Item"
+#~ msgstr "Продукт"
+
+#~ msgid "Qty"
+#~ msgstr "Брой"
+
+#~ msgid "Price"
+#~ msgstr "Цена"
+
+#~ msgid "Sum"
+#~ msgstr "Сума"
+
+#~ msgid "Total"
+#~ msgstr "Общо"
+
+#~ msgid "Add gift wrap"
+#~ msgstr "Добави опаковка"
+
+#~ msgid "not yet calculated"
+#~ msgstr "не е изчислена"
+
+#~ msgid "Discount"
+#~ msgstr "Отстъпка"
+
+#~ msgid "Order Total"
+#~ msgstr "Общо за поръчката"
+
+#~ msgid "Cart"
+#~ msgstr "Кошница"
+
+#~ msgid "Prices include all taxes."
+#~ msgstr "Цените включват ДДС."
+
+#~ msgid "Prices do not include tax."
+#~ msgstr "Цените не включват ДДС."
+
+#~ msgid "Logged in as:"
+#~ msgstr "Влезли сте като:"
+
+#~ msgid "You need to be logged in to make a purchase."
+#~ msgstr "Трябва да сте регистрирани за да направите поръчка."
+
+#~ msgid ""
+#~ "Login is optional, but order tracking and history is only available to "
+#~ "registered customers."
+#~ msgstr ""
+#~ "Регистрацията не е задължителна, но проследяването на поръчките е "
+#~ "възможно само за регистрирани потребители."
+
+#~ msgid "Login"
+#~ msgstr "Вход"
+
+#~ msgid "Register"
+#~ msgstr "Регистрация"
+
+#~ msgid "item"
+#~ msgstr "продукт"
+
+#~ msgid "items"
+#~ msgstr "продукти"
+
+#~ msgid "Global by %"
+#~ msgstr "Общо, в %"
+
+#~ msgid "Global by value"
+#~ msgstr "Общо, по стойност"
+
+#~ msgid "Shipping by %"
+#~ msgstr "Доставка, в %"
+
+#~ msgid "Shipping by value"
+#~ msgstr "Доставка, по стойност"
+
+#~ msgid "Gift voucher"
+#~ msgstr "Ваучер"
+
+#~ msgid "Used"
+#~ msgstr "Използван"
+
+#~ msgid "Use once"
+#~ msgstr "Еднократно използване"
+
+#~ msgid "Unlimited usage"
+#~ msgstr "Неограничено използване"
+
+#~ msgid "Discount code not valid"
+#~ msgstr "Този код не е валиден"
+
+#~ msgid "Address not saved"
+#~ msgstr "Адресът не беше запазен"
+
+#~ msgid "Missing required fields"
+#~ msgstr "Липсват задължителни полета"
+
+#~ msgid "Not saved"
+#~ msgstr "Не е запазена"
+
+#~ msgid "Missing SKU."
+#~ msgstr "Липсва код"
+
+#~ msgid "Missing product ID."
+#~ msgstr "Липсва ID на продукт"
+
+#~ msgid "Saved!"
+#~ msgstr "Запазено!"
+
+#~ msgid "Not saved."
+#~ msgstr "Не е запазена."
+
+#~ msgid "Message from"
+#~ msgstr "Съобщение от"
+
+#~ msgid "Pending"
+#~ msgstr "Чакаща"
+
+#~ msgid "Processing"
+#~ msgstr "Обработва се"
+
+#~ msgid "Shipped"
+#~ msgstr "Изпратена"
+
+#~ msgid "Cancelled"
+#~ msgstr "Отказана"
+
+#~ msgid "Returned"
+#~ msgstr "Върната"
+
+#~ msgid "INVOICE"
+#~ msgstr "ФАКТУРА"
+
+#~ msgid "ORIGINAL"
+#~ msgstr "ОРИГИНАЛ"
+
+#~ msgid "Order"
+#~ msgstr "Поръчка"
+
+#~ msgid "Date"
+#~ msgstr "Дата"
+
+#~ msgid "Tax base"
+#~ msgstr "Данъчна основа"
+
+#~ msgid "Total with tax"
+#~ msgstr "Общо с данък"
+
+#~ msgid "Payment method"
+#~ msgstr "Метод на плащане"
+
+#~ msgid "Paid by"
+#~ msgstr "Платена чрез"
+
+#~ msgid "Refunded"
+#~ msgstr "Възстановена"
+
+#~ msgid "SKU"
+#~ msgstr "Код"
+
+#~ msgid "Delete item"
+#~ msgstr "Изтриване"
+
+#~ msgid "Edit item"
+#~ msgstr "Редактиране"
+
+#~ msgid "Not paid"
+#~ msgstr "Неплатена"
+
+#~ msgid "Paid"
+#~ msgstr "Платена"
+
+#~ msgid "Buy %1$s to get a %2$s%% discount!"
+#~ msgstr "Купете %1$s броя и ще получите %2$s%% отстъпка!"
+
+#~ msgid "out of stock"
+#~ msgstr "не е наличен"
+
+#~ msgid "Temporarily not available online"
+#~ msgstr "Временно не е наличен онлайн"
+
+#~ msgid "Sent"
+#~ msgstr "Изпратена"
+
+#~ msgid "Received"
+#~ msgstr "Получена"
+
+#~ msgid "All order types"
+#~ msgstr "Статуси на поръчка"
+
+#~ msgid "pcs"
+#~ msgstr "бр"
+
+#~ msgid "Sale Price"
+#~ msgstr "Продажна цена"
+
+#~ msgid "Margin"
+#~ msgstr "Марж"
+
+#~ msgid "You need to choose a shipping method"
+#~ msgstr "Трябва да изберете метод на доставка"
+
+#~ msgid "Cannot ship to this country"
+#~ msgstr "Не можем да доставим до тази държава"
+
+#~ msgid "Your wishlist is empty."
+#~ msgstr "Списъкът с любими е празен."
+
+#~ msgid "Browse"
+#~ msgstr "Преглед"
+
+#~ msgid "Remove from wishlist"
+#~ msgstr "Изтриване от любими."
+
+#~ msgid "Save to wishlist"
+#~ msgstr "Запазване в любими."
+
+#~ msgid "Performance"
+#~ msgstr "Статистика"
+
+#~ msgid "Sales performance and analysis"
+#~ msgstr "Статистика за продажби и анализи"
+
+#~ msgid "Monthly sales for past 12 months"
+#~ msgstr "Месечни продажби за годината"
+
+#~ msgid "Monthly sales for current year"
+#~ msgstr "Месечни продажби за текущата година"
+
+#~ msgid "Missing discount value."
+#~ msgstr "Липсва стойност на отстъпката."
+
+#~ msgid "Missing validity."
+#~ msgstr "Липсва валидност."
+
+#~ msgid "Discounts"
+#~ msgstr "Отстъпки"
+
+#~ msgid "Coupons"
+#~ msgstr "Кодове за отстъпка"
+
+#~ msgid "Add"
+#~ msgstr "Добавяне"
+
+#~ msgid "Start Date"
+#~ msgstr "От дата"
+
+#~ msgid "End Date"
+#~ msgstr "До дата"
+
+#~ msgid "Search"
+#~ msgstr "Търсене"
+
+#~ msgid "Code"
+#~ msgstr "Код"
+
+#~ msgid "Min. order"
+#~ msgstr "Мин. поръчка"
+
+#~ msgid "Type"
+#~ msgstr "Тип"
+
+#~ msgid "Status"
+#~ msgstr "Статус"
+
+#~ msgid "Limit"
+#~ msgstr "Ограничение"
+
+#~ msgid "Valid from"
+#~ msgstr "Валидност от"
+
+#~ msgid "Valid to"
+#~ msgstr "Валидност до"
+
+#~ msgid "Delete"
+#~ msgstr "Изтриване"
+
+#~ msgid "Minimum order value"
+#~ msgstr "Минимална сума на поръчка"
+
+#~ msgid "Amount"
+#~ msgstr "Стойност"
+
+#~ msgid "Create"
+#~ msgstr "Създаване"
+
+#~ msgid "Invalid discount value"
+#~ msgstr "Невалидна стойност на отстъпката"
+
+#~ msgid "Discount type"
+#~ msgstr "Вид отстъпка"
+
+#~ msgid "Discount status"
+#~ msgstr "Статус на отстъпка"
+
+#~ msgid "Inventory"
+#~ msgstr "Наличности"
+
+#~ msgid "Stock"
+#~ msgstr "Наличност"
+
+#~ msgid "Purchase Orders"
+#~ msgstr "Доставки"
+
+#~ msgid "Add Purchase Order"
+#~ msgstr "Нова доставка"
+
+#~ msgid "Import"
+#~ msgstr "Импорт"
+
+#~ msgid "Export"
+#~ msgstr "Експорт"
+
+#~ msgid "Product"
+#~ msgstr "Продукт"
+
+#~ msgid "Selling Price"
+#~ msgstr "Продажна цена"
+
+#~ msgid "Purchase Price"
+#~ msgstr "Доставна цена"
+
+#~ msgid "All"
+#~ msgstr "Всички"
+
+#~ msgid "Not yet received"
+#~ msgstr "Все още не е получен"
+
+#~ msgid "Supplier"
+#~ msgstr "Доставчик"
+
+#~ msgid "Value"
+#~ msgstr "Стойност"
+
+#~ msgid "Actions"
+#~ msgstr "Действия"
+
+#~ msgid "Invoice"
+#~ msgstr "Фактура"
+
+#~ msgid "Send"
+#~ msgstr "Изпрати"
+
+#~ msgid "Send Email"
+#~ msgstr "Изпрати имейл"
+
+#~ msgid "Goods received"
+#~ msgstr "Получена стока"
+
+#~ msgid "Cancel"
+#~ msgstr "Отказана"
+
+#~ msgid "View"
+#~ msgstr "Преглед"
+
+#~ msgid "Print"
+#~ msgstr "Печат"
+
+#~ msgid "Split order"
+#~ msgstr "Разделяне на поръчка"
+
+#~ msgid "Reset and reload order"
+#~ msgstr "Презареждане на поръчка"
+
+#~ msgid "Add item"
+#~ msgstr "Добавяне на продукт"
+
+#~ msgid "Check"
+#~ msgstr "Проверка"
+
+#~ msgid "Search by name"
+#~ msgstr "Търсене по име"
+
+#~ msgid "Search by SKU"
+#~ msgstr "Търсене по SKU"
+
+#~ msgid "Are you sure?"
+#~ msgstr "Сигурни ли сте?"
+
+#~ msgid "Save"
+#~ msgstr "Запазване"
+
+#~ msgid "This item is not part of the order."
+#~ msgstr "Този продукт не е част от тази поръчка"
+
+#~ msgid "OK"
+#~ msgstr "ОК"
+
+#~ msgid "This item has already been packed in the needed quantity."
+#~ msgstr "Този продукт вече е пакетиран в нужното количество."
+
+#~ msgid "Get all products"
+#~ msgstr "Виж всички продукти"
+
+#~ msgid "Products"
+#~ msgstr "Продукти"
+
+#~ msgid "On stock"
+#~ msgstr "В наличност"
+
+#~ msgid "Invoice Number"
+#~ msgstr "Фактура №"
+
+#~ msgid "Mark as sent"
+#~ msgstr "Маркирай като изпратена"
+
+#~ msgid "Send email to supplier"
+#~ msgstr "Изпрати имейл към доставчик"
+
+#~ msgid "Create purchase order"
+#~ msgstr "Създаване на доставка"
+
+#~ msgid "Generate"
+#~ msgstr "Генерирай"
+
+#~ msgid "Year"
+#~ msgstr "Година"
+
+#~ msgid "Month"
+#~ msgstr "Месец"
+
+#~ msgid "Cost"
+#~ msgstr "Разход"
+
+#~ msgid "Columns in CSV file:"
+#~ msgstr "Колони в CSV файл:"
+
+#~ msgid "1. Purchase orders import"
+#~ msgstr "1. Импорт на доставки"
+
+#~ msgid "1. Purchase orders products import"
+#~ msgstr "1. Импорт на продукти към доставки"
+
+#~ msgid "Set Start Inventory"
+#~ msgstr "Начални наличности"
+
+#~ msgid "Delete all inventory uploads"
+#~ msgstr "Изтриване на всички импорти на наличности"
+
+#~ msgid "Full inventory export"
+#~ msgstr "Пълен експорт на наличности"
+
+#~ msgid "Shop Management"
+#~ msgstr "Управление на магазина"
+
+#~ msgid "Shop"
+#~ msgstr "Магазин"
+
+#~ msgid "Seller Central"
+#~ msgstr "Зона на търговеца"
+
+#~ msgid "Quick stats"
+#~ msgstr "Бързи справки"
+
+#~ msgid "Current stock value"
+#~ msgstr "Стойност на наличностите"
+
+#~ msgid "Sales this month"
+#~ msgstr "Продажби този месец"
+
+#~ msgid "Sales this year"
+#~ msgstr "Продажби тази година"
+
+#~ msgid "Sales an year ago"
+#~ msgstr "Продажби преди една година"
+
+#~ msgid "Sales last year"
+#~ msgstr "Продажби миналата година"
+
+#~ msgid "Orders"
+#~ msgstr "Поръчки"
+
+#~ msgid "New pending orders"
+#~ msgstr "Нови чакащи поръчки"
+
+#~ msgid "Unpaid orders"
+#~ msgstr "Неплатени"
+
+#~ msgid "All orders"
+#~ msgstr "Всички поръчки"
+
+#~ msgid "Import orders"
+#~ msgstr "Импорт на поръчки"
+
+#~ msgid "Unshipped"
+#~ msgstr "Недоставени"
+
+#~ msgid "Unpaid"
+#~ msgstr "Неплатени"
+
+#~ msgid "Payments"
+#~ msgstr "Плащания"
+
+#~ msgid "Receipt"
+#~ msgstr "Разписка"
+
+#~ msgid "Refund"
+#~ msgstr "Възстановяване"
+
+#~ msgid "Ship by"
+#~ msgstr "Изпрати чрез"
+
+#~ msgid "Shipped on"
+#~ msgstr "Изпратена на"
+
+#~ msgid "Phone"
+#~ msgstr "Телефон"
+
+#~ msgid "Notes:"
+#~ msgstr "Бележки:"
+
+#~ msgid "Close"
+#~ msgstr "Затваряне"
+
+#~ msgid "Enter shipping price:"
+#~ msgstr "Цена на доставка:"
+
+#~ msgid "Order number"
+#~ msgstr "Номер на поръчка"
+
+#~ msgid "Leave blank to use the defaults"
+#~ msgstr "Оставете празно за автоматично попълване"
+
+#~ msgid "Prefix"
+#~ msgstr "Префикс"
+
+#~ msgid "Send email"
+#~ msgstr "Изпрати имейл"
+
+#~ msgid "Shipping price"
+#~ msgstr "Цена на доставка"
+
+#~ msgid "Shipping details"
+#~ msgstr "Данни за доставка"
+
+#~ msgid "leave blank if not shipped yet."
+#~ msgstr "оставете празно, ако не е изпратена"
+
+#~ msgid "Create order"
+#~ msgstr "Създаване на поръчка"
+
+#~ msgid "Currency"
+#~ msgstr "Валута"
+
+#~ msgid "Three-letter code"
+#~ msgstr "Трибуквен код"
+
+#~ msgid "Order status"
+#~ msgstr "Статус на поръчка"
+
+#~ msgid "Payment status"
+#~ msgstr "Статус на плащане"
+
+#~ msgid "Two-letter country code"
+#~ msgstr "Двубуквен код на държава"
+
+#~ msgid "Product details"
+#~ msgstr "Детайли за продукта"
+
+#~ msgid ""
+#~ "Only posts that have a price (including \"0\") are handled as active "
+#~ "products."
+#~ msgstr ""
+#~ "Само продукти с въведена цена (включително \"0\") се считат за активни "
+#~ "продукти."
+
+#~ msgid "Product type"
+#~ msgstr "Тип продукт"
+
+#~ msgid "Own stock"
+#~ msgstr "Собствена наличност"
+
+#~ msgid "Supplier stock"
+#~ msgstr "Наличност при доставчик"
+
+#~ msgid "Virtual product"
+#~ msgstr "Виртуален продукт"
+
+#~ msgid "Has no qty"
+#~ msgstr "Няма количество"
+
+#~ msgid "Product ID"
+#~ msgstr "ID на продукт"
+
+#~ msgid "Supplier SKU"
+#~ msgstr "Код при доставчик"
+
+#~ msgid "Tax rate"
+#~ msgstr "Данъчна ставка"
+
+#~ msgid "Standard"
+#~ msgstr "Стандартна"
+
+#~ msgid "Reduced"
+#~ msgstr "Намалена"
+
+#~ msgid "0%"
+#~ msgstr "0%"
+
+#~ msgid "Discount %"
+#~ msgstr "Отстъпка %"
+
+#~ msgid "Discount for qty"
+#~ msgstr "Отстъпка за количество"
+
+#~ msgid "Discount end"
+#~ msgstr "Отстъпка до"
+
+#~ msgid "In stock"
+#~ msgstr "В наличност"
+
+#~ msgid "Weight"
+#~ msgstr "Тегло"
+
+#~ msgid "Variations"
+#~ msgstr "Вариации"
+
+#~ msgid "Any field left blank will assume the default for the product."
+#~ msgstr "Всяко празно поле приема основната стойност за продукта."
+
+#~ msgid "Hide"
+#~ msgstr "Скрий"
+
+#~ msgid "Add variations"
+#~ msgstr "Добавяне на вариации"
+
+#~ msgid "Get purchasing data for this product."
+#~ msgstr "Виж данни за покупки за този продукт."
+
+#~ msgid "Get sales data for this product."
+#~ msgstr "Виж данни за продажби за този продукт."
+
+#~ msgid "Settings"
+#~ msgstr "Настройки"
+
+#~ msgid "Setup"
+#~ msgstr "Настройка"
+
+#~ msgid "Invoicing"
+#~ msgstr "Фактуриране"
+
+#~ msgid "Shipping Zones"
+#~ msgstr "Зони за доставка"
+
+#~ msgid "Emails"
+#~ msgstr "Имейли"
+
+#~ msgid "Help"
+#~ msgstr "Помощ"
+
+#~ msgid "Configuration"
+#~ msgstr "Конфигурация"
+
+#~ msgid "Uninstall"
+#~ msgstr "Деинсталация"
+
+#~ msgid "Checkout settings"
+#~ msgstr "Настройки за поръчки"
+
+#~ msgid "Gift Wrap"
+#~ msgstr "Опаковка за подарък"
+
+#~ msgid "Wishlist"
+#~ msgstr "Любими"
+
+#~ msgid "Payments settings"
+#~ msgstr "Разплащания"
+
+#~ msgid "Invoicing settings"
+#~ msgstr "Фактуриране"
+
+#~ msgid "Tax"
+#~ msgstr "Данък"
+
+#~ msgid "Email settings"
+#~ msgstr "Имейл настройки"
+
+#~ msgid "Order confirmation email"
+#~ msgstr "Имейл за потвърждение на поръчка"
+
+#~ msgid "New sale notification email"
+#~ msgstr "Имейл за нотификация при продажба"
+
+#~ msgid "Order shipped email"
+#~ msgstr "Имейл за изпратена поръчка"
+
+#~ msgid "Purchase Order to supplier"
+#~ msgstr "Заявка към доставчик"
+
+#~ msgid "Low stock notification"
+#~ msgstr "Нотификация при ниска наличност"
+
+#~ msgid "User account emails"
+#~ msgstr "Имейли за потребителски акаунт"
+
+#~ msgid "Live mode"
+#~ msgstr "Магазинът работи"
+
+#~ msgid "Country of operations for this shop"
+#~ msgstr "Държава, от където магазинът оперира"
+
+#~ msgid "If your store needs no shipping at all."
+#~ msgstr "Ако вашият магазин не извършва доставки."
+
+#~ msgid "Low stock threshold"
+#~ msgstr "Праг за наличност"
+
+#~ msgid "Threshold for product low stock notification."
+#~ msgstr "Нотификация при ниска наличност."
+
+#~ msgid "Margin threshold"
+#~ msgstr "Праг за марж"
+
+#~ msgid "Product variations"
+#~ msgstr "Вариации на продукта"
+
+#~ msgid "Base currency"
+#~ msgstr "Базова валута"
+
+#~ msgid "Define the default currency for the site."
+#~ msgstr "Валутата по подразбиране на магазина."
+
+#~ msgid "Extra currencies"
+#~ msgstr "Допълнителни валути"
+
+#~ msgid "Shopping cart page"
+#~ msgstr "Страница на количка"
+
+#~ msgid ""
+#~ "Select the page that will be your shopping cart (the page must contain "
+#~ "the [KOSHER_CART] shortcode)."
+#~ msgstr ""
+#~ "Изберете страницата, която ще съдържа количката (трябва да съдържа таг "
+#~ "[KOSHER_CART])."
+
+#~ msgid "Terms & Conditions page"
+#~ msgstr "Страница с условия за ползване"
+
+#~ msgid "Will include a terms & conditions checkbox."
+#~ msgstr "Ще включи задължително поле за съгласие с условията за употреба."
+
+#~ msgid "Login required"
+#~ msgstr "Логин е задължителен"
+
+#~ msgid "Check to allow only logged in user to checkout."
+#~ msgstr "Изберете за да изисквате задължителна регистрация при поръчка."
+
+#~ msgid "SSL cart"
+#~ msgstr "SSL количка"
+
+#~ msgid "Add to cart behaviour"
+#~ msgstr "Поведение при добавяне в количката"
+
+#~ msgid "Redirect to cart page"
+#~ msgstr "Редирект към количка"
+
+#~ msgid "Pop-up"
+#~ msgstr "Чрез модал"
+
+#~ msgid "Use Ajax"
+#~ msgstr "Чрез ajax"
+
+#~ msgid "Checkout type"
+#~ msgstr "Метод на поръчка"
+
+#~ msgid "Multi-page"
+#~ msgstr "Мулти-страници"
+
+#~ msgid "One-page"
+#~ msgstr "1 страница"
+
+#~ msgid "Check to offer gift wrap option."
+#~ msgstr "Изберете за да предлагата опаковка за подарък"
+
+#~ msgid "Use"
+#~ msgstr "Използване"
+
+#~ msgid "Order numbering"
+#~ msgstr "Номериране на поръчки"
+
+#~ msgid "Consecutive"
+#~ msgstr "Поредни"
+
+#~ msgid "Random, 6 symbols (latin letters and numbers)"
+#~ msgstr "Случайни 6 символа (латински букви и цифри)"
+
+#~ msgid "If you chose the consecutive option above."
+#~ msgstr "При избор на поредна номерация горе."
+
+#~ msgid "VAT invoice number"
+#~ msgstr "Номер на ДДС фактура"
+
+#~ msgid "Company info"
+#~ msgstr "Данни за фирма"
+
+#~ msgid "Tax usage"
+#~ msgstr "Прилагане на данъци"
+
+#~ msgid "Check if your country uses VAT or other sales tax."
+#~ msgstr "Изберете ако вашата държава прилага ДДС или данък продажба."
+
+#~ msgid "Tax included"
+#~ msgstr "Данъкът е включен"
+
+#~ msgid "Check if your prices will INCLUDE the tax by default."
+#~ msgstr "Изберете, ако цените на сайта включват данъка."
+
+#~ msgid "Tax name"
+#~ msgstr "Име на данъка"
+
+#~ msgid "The name of the tax."
+#~ msgstr "Име на данъка."
+
+#~ msgid "Tax %"
+#~ msgstr "Данък %"
+
+#~ msgid "The VAT/sales tax rate in your country."
+#~ msgstr "Данъчната ставка във вашата държава."
+
+#~ msgid "VAT reduced %"
+#~ msgstr "Намалена ставка"
+
+#~ msgid "The VAT reduced rate in your country."
+#~ msgstr "Намалена данъчна ставка във вашата държава."
+
+#~ msgid "Payment methods"
+#~ msgstr "Методи на плащане"
+
+#~ msgid "Bank Transfer"
+#~ msgstr "Банков превод"
+
+#~ msgid "Instructions"
+#~ msgstr "Инструкции"
+
+#~ msgid "Number of zones"
+#~ msgstr "Брой зони"
+
+#~ msgid "Define up to 9 shipping zones."
+#~ msgstr "Посочете брой зони за доставка (до 9)."
+
+#~ msgid "Define zones"
+#~ msgstr "Дефиниране на зони"
+
+#~ msgid "Emails from address"
+#~ msgstr "Имейл адрес"
+
+#~ msgid "Emails from name"
+#~ msgstr "Имейл име"
+
+#~ msgid "Store manager"
+#~ msgstr "Мениджър"
+
+#~ msgid "Email where sales notifications will be sent."
+#~ msgstr "Имейл, където ще се изпращат нотификации при поръчка."
+
+#~ msgid "Email type"
+#~ msgstr "Тип имейл"
+
+#~ msgid "Subject"
+#~ msgstr "Заглавие"
+
+#~ msgid "Body"
+#~ msgstr "Текст"
+
+#~ msgid "Subject of email."
+#~ msgstr "Заглавие на имейла."
+
+#~ msgid "Registration email"
+#~ msgstr "Имейл при регистрация"
+
+#~ msgid "Lost password email"
+#~ msgstr "Имейл при изгубена парола"
+
+#~ msgid "Sent to clients when they make a purchase."
+#~ msgstr "Изпраща се на клиентите при поръчка."
+
+#~ msgid "Category"
+#~ msgstr "Категория"
+
+#~ msgid "Tag"
+#~ msgstr "Етикет"
+
+#~ msgid "Add New"
+#~ msgstr "Добавяне"
+
+#~ msgid "Three letter currency code"
+#~ msgstr "3-буквен код на валута"
+
+#~ msgid "Format"
+#~ msgstr "Формат"
+
+#~ msgid "Rounding"
+#~ msgstr "Закръгляне"
+
+#~ msgid "Number of digits after the decimal."
+#~ msgstr "Брой цифри след десетичния знак."
+
+#~ msgid "COD"
+#~ msgstr "Наложен платеж"
+
+#~ msgid "Bank"
+#~ msgstr "Банка"
+
+#~ msgid "Exclude zones"
+#~ msgstr "Изключване на зони"
+
+#~ msgid "Method"
+#~ msgstr "Метод"
+
+#~ msgid "Zone"
+#~ msgstr "Зона"
+
+#~ msgid "Methods"
+#~ msgstr "Методи"
+
+#~ msgid "Tracking URL"
+#~ msgstr "Адрес за проследяване"
+
+#~ msgid "Zones"
+#~ msgstr "Зони"
+
+#~ msgid "Weight Point"
+#~ msgstr "Деление на тегло"
+
+#~ msgid "Max Weight"
+#~ msgstr "Макс. тегло"
+
+#~ msgid "Per Order"
+#~ msgstr "На поръчка"
+
+#~ msgid "Per Weight"
+#~ msgstr "На тегло"
+
+#~ msgid "Per Item"
+#~ msgstr "На брой"
+
+#~ msgid "Free Over"
+#~ msgstr "Безплатно над"
+
+#~ msgid "This link has expired. Please, request a new one."
+#~ msgstr "Този код е изтекъл. Моля, заявете нов."
+
+#~ msgid "This link is not valid. Please, request a new one."
+#~ msgstr "Този код не е валиден. Моля, заявете нов."
+
+#~ msgid "You need to enter a password."
+#~ msgstr "Трябва да въведете парола."
+
+#~ msgid "The two passwords do not match."
+#~ msgstr "Двете пароли не съвпадат."
+
+#~ msgid "The password should be at least 8 characters."
+#~ msgstr "Паролата трябва да бъде минимум 8 знака."
+
+#~ msgid "The password should contain at least one number."
+#~ msgstr "Паролата трябва да съдържа поне едно число."
+
+#~ msgid "Your new password was saved!"
+#~ msgstr "Новата ви парола беше запазена!"
+
+#~ msgid "Please, enter an email address"
+#~ msgstr "Моля, въведете имейл"
+
+#~ msgid "Please, enter a valid email address"
+#~ msgstr "Моля, въведете валиден имейл"
+
+#~ msgid "We cannot find a valid account for this email address."
+#~ msgstr "Не е открит валиден акаунт за този имейл адрес."
+
+#~ msgid "A link to reset your password was sent to your email!"
+#~ msgstr "Изпратихме връзка за възстановяване на паролата на вашия имейл!"
+
+#~ msgid "We could not generate a password reset link for this email."
+#~ msgstr "Не можахме да генерираме линк за възстановяване за този имейл."
+
+#~ msgid ""
+#~ "You are currently logged in. You need to log out before you can request a "
+#~ "new password."
+#~ msgstr ""
+#~ "Вие сте влезнал в акаунта си. Трябва да излезете, за да може да "
+#~ "възстановите паролата си."
+
+#~ msgid "Log out"
+#~ msgstr "Изход"
+
+#~ msgid ""
+#~ "Forgot your password? Enter your email address and a password reset link "
+#~ "will be sent to you."
+#~ msgstr ""
+#~ "Забравили сте паролата си? Въведете вашия имейл адрес и ще ви изпратим "
+#~ "линк за възстановяване."
+
+#~ msgid "E-mail"
+#~ msgstr "Имейл"
+
+#~ msgid "Reset password"
+#~ msgstr "Нова парола"
+
+#~ msgid ""
+#~ "Choose a strong password with a minimum of 8 characters, which includes "
+#~ "at least one number."
+#~ msgstr "Изберете силна парола с минимум 8 знака, включваща поне едно число."
+
+#~ msgid "Repeat new password"
+#~ msgstr "Повторете новата парола"
+
+#~ msgid "Save password"
+#~ msgstr "Запазване"
+
+#~ msgid "Your old password is not correct."
+#~ msgstr "Не сте въвели старата си парола вярно."
+
+#~ msgid "Old password"
+#~ msgstr "Стара парола"
+
+#~ msgid "This email has already been registered on our site"
+#~ msgstr "Този имейл е вече регистриран на нашия сайт"
+
+#~ msgid "Registration was successful!"
+#~ msgstr "Регистрацията е успешна!"
+
+#~ msgid "Registration was not successful."
+#~ msgstr "Регистрацията не беше успешна."
+
+#~ msgid "You are already registered."
+#~ msgstr "Вие вече сте регистриран."
+
+#~ msgid "terms of use"
+#~ msgstr "условията за ползване"
+
+#~ msgid "Your password will be sent to your email address."
+#~ msgstr "Паролата ви ще бъде изпратена на имейл адреса ви."
+
+#~ msgid "Add user"
+#~ msgstr "Добавяне на потребител"
+
+#~ msgid "Shopping Cart"
+#~ msgstr "Кошница"
+
+#~ msgid "Title:"
+#~ msgstr "Заглавие:"
+
+#~ msgid "Choose the shop currency."
+#~ msgstr "Изберете валута за магазина"
+
+#~ msgid "Save a wishlist."
+#~ msgstr "Списък с любими."
+
+#~ msgid "Order not saved"
+#~ msgstr "Поръчката не е запазена"
+
+#~ msgid "Order was placed, but products failed to record."
+#~ msgstr ""
+#~ "Поръчката беше записана, но съдържанието не беше регистрирано успешно."
+
+#~ msgid "Order was not placed successfully."
+#~ msgstr "Неуспешно запазване на поръчката."
+
+#~ msgid "Order does not exist."
+#~ msgstr "Поръчката не съществува."
+
+#~ msgid "All payment methods"
+#~ msgstr "Методи на плащане"
+
+#~ msgid "All payment status"
+#~ msgstr "Статус на плащане"
+
+#~ msgid "Order ID already exists"
+#~ msgstr "Този номер на поръчка вече съществува"
+
+#~ msgid "Currency error"
+#~ msgstr "Грешка при валута"
+
+#~ msgid "Payment error"
+#~ msgstr "Грешка при плащане"
+
+#~ msgid "Order is empty"
+#~ msgstr "Поръчката е празна"
+
+#~ msgid "Some products are not available."
+#~ msgstr "Някои продукти не са налични."
+
+#~ msgid "Not available in the chosen quantity."
+#~ msgstr "Някои продукти не са налични в избраното количество."
+
+#~ msgid "There are no products with this supplier."
+#~ msgstr "Няма продукти към този доставчик."
+
+#~ msgid "Missing supplier"
+#~ msgstr "Липсва доставчик"
+
+#~ msgid "Missing products"
+#~ msgstr "Липсват продукти"
+
+#~ msgid "row"
+#~ msgstr "ред"
+
+#~ msgid "Deleted"
+#~ msgstr "Успешно изтриване"
+
+#~ msgid "Not deleted"
+#~ msgstr "Неуспешно изтриване"
+
+#~ msgid "Missing data."
+#~ msgstr "Липсвт данни"
+
+#~ msgid "Just a second..."
+#~ msgstr "Изчакайте няколко секунди..."
+
+#~ msgid "Mark as paid"
+#~ msgstr "Маркирай \"платена\""
+
+#~ msgid "Fully refunded"
+#~ msgstr "Изцяло възстановена"
+
+#~ msgid "Edit"
+#~ msgstr "Редактиране"
+
+#~ msgid "Average purchase price"
+#~ msgstr "Средна цена на покупка"
+
+#~ msgid "Last 20 purchases"
+#~ msgstr "Последни 20 покупки"
+
+#~ msgid "Average sales price"
+#~ msgstr "Средна продажна цена"
+
+#~ msgid "Not found"
+#~ msgstr "Не е намерено"
+
+#~ msgid "Payment not saved"
+#~ msgstr "Плащането не е запазено"
+
+#~ msgid "Payment saved"
+#~ msgstr "Плащането е запазено"
+
+#~ msgid "Order saved"
+#~ msgstr "Поръчката е запазена"
+
+#~ msgid "Not saved!"
+#~ msgstr "Не е запазена!"
+
+#~ msgid "The order could not be found."
+#~ msgstr "Поръчката не е открита."
+
+#~ msgid "Shipping deleted"
+#~ msgstr "Доставката е изтрита"
+
+#~ msgid "Shipping not deleted"
+#~ msgstr "Доставката не е изтрита"
+
+#~ msgid "there are no payments"
+#~ msgstr "няма запазени плащания"
+
+#~ msgid "Already received"
+#~ msgstr "Вече е получена"
+
+#~ msgid "Errors have occured "
+#~ msgstr "Възникнаха грешки"
+
+#~ msgid "Not cancelled"
+#~ msgstr "Не е отказана"
+
+#~ msgid "This order is closed."
+#~ msgstr "Тази поръчка е приключена."
+
+#~ msgid "The order is empty - no items to split."
+#~ msgstr "Поръчката е празна - няма продукти за разделяне."
+
+#~ msgid "The order could not be saved."
+#~ msgstr "Поръчката не е запазена."
+
+#~ msgid "Could not delete"
+#~ msgstr "Неуспешно изтриване"
+
+#~ msgid "Does not exist"
+#~ msgstr "Не съществува"
+
+#~ msgid "Order completed!"
+#~ msgstr "Поръчката е готова!"
+
+#~ msgid "Order was not updated."
+#~ msgstr "Поръчката не е запазена."
+
+#~ msgid "Product not saved"
+#~ msgstr "Продуктът не е запазен"
+
+#~ msgid "Missing order date."
+#~ msgstr "Липсва дата на поръчка."
+
+#~ msgid "Missing order ID"
+#~ msgstr "Липсва номер на поръчка"
+
+#~ msgid "Missing payment method"
+#~ msgstr "Липсва метод на плащане"
+
+#~ msgid "Add to cart"
+#~ msgstr "Добави в кошницата"
+
+#~ msgid "VAT"
+#~ msgstr "ДДС"
+
+#~ msgid "Deleted!"
+#~ msgstr "Изтрит!"
+
+#~ msgid "Add Order"
+#~ msgstr "Добавяне на поръчка"
+
+#~ msgid "You will have to pay the courier upon delivery of the product."
+#~ msgstr "Ще трябва да платите на куриера при доставка."
+
+#~ msgid ""
+#~ "Your order will be shipped after the money has been deposited to our bank "
+#~ "account."
+#~ msgstr "Поръчката ви ще бъде изпратена след като получим банковия превод."
+
+#~ msgid "Thank you for your order"
+#~ msgstr "Благодарим ви за вашата поръчка"
+
+#~ msgid "New purchase in your shop"
+#~ msgstr "Нова поръчка във вашия магазин"
+
+#~ msgid "Your order has shipped"
+#~ msgstr "Вашата поръчка беше изпратена"
+
+#~ msgid "Thank you for your payment!"
+#~ msgstr "Благодарим ви за вашето плащане!"
+
+#~ msgid ""
+#~ "The payment appears to have been unsuccessful! Please, check your paypal "
+#~ "account."
+#~ msgstr ""
+#~ "Плащането изглежда е било неуспешно! Моля, проверете вашия paypal акаунт."
+
+#~ msgid ""
+#~ "The payment was unsuccessful or cancelled by the user. If you still wish "
+#~ "to receive your order, please, get in touch with us to arrange another "
+#~ "payment method."
+#~ msgstr ""
+#~ "Плащането е неуспешно или е отказано от потребителя. Ако все още искате "
+#~ "да направите тази поръчка, моля, свържете се с нас, за да уточним друг "
+#~ "начин на плащане."
+
+#~ msgid ""
+#~ "The payment appears to be successful. Once we receive the money we will "
+#~ "ship the order straight away!"
+#~ msgstr ""
+#~ "Плащането изглежда успешно. След като го потвърдим ще изпратим поръчката "
+#~ "ви!"
+
+#~ msgid "Shipping date"
+#~ msgstr "Дата на изпращане"
+
+#~ msgid "No past orders have been found."
+#~ msgstr "Няма минали поръчки."
+
+#~ msgid "Start shopping!"
+#~ msgstr "Започнете да пазарувате!"
+
+#~ msgid "No saved addresses have been found."
+#~ msgstr "Няма запазени адреси."
+
+#~ msgid "All months"
+#~ msgstr "Всички месеци"
+
+#~ msgid "January"
+#~ msgstr "Януари"
+
+#~ msgid "February"
+#~ msgstr "Февруари"
+
+#~ msgid "March"
+#~ msgstr "Март"
+
+#~ msgid "April"
+#~ msgstr "Април"
+
+#~ msgid "May"
+#~ msgstr "Май"
+
+#~ msgid "June"
+#~ msgstr "Юни"
+
+#~ msgid "July"
+#~ msgstr "Юли"
+
+#~ msgid "August"
+#~ msgstr "Август"
+
+#~ msgid "September"
+#~ msgstr "Септември"
+
+#~ msgid "October"
+#~ msgstr "Октомври"
+
+#~ msgid "December"
+#~ msgstr "Декември"
+
+#~ msgid "Bulgaria"
+#~ msgstr "България"
+
+#~ msgid "Hungary"
+#~ msgstr "Унгария"
+
+#~ msgid "By placing the order you agree to our"
+#~ msgstr "Изпращайки поръчката "
+
+#~ msgid "Your wishlist is not empty."
+#~ msgstr "Списъкът с любими не е празен."
+
+#~ msgid "Validity"
+#~ msgstr "Валидност"
+
+#~ msgid "Wait for it..."
+#~ msgstr "Изчакайте малко..."
+
+#~ msgid "COGS reports"
+#~ msgstr "Отчети за себестойност на продажбите"
+
+#~ msgid "Edit product"
+#~ msgstr "Редактиране на продукт"
+
+#~ msgid "Choose a supplier to see their products"
+#~ msgstr "Изберете доставчик, за да видите продуктите му"
+
+#~ msgid "Update"
+#~ msgstr "Обнови"
+
+#~ msgid "Inventory management"
+#~ msgstr "Управление на наличностите"
+
+#~ msgid "Enable Inventory management."
+#~ msgstr "Включване на управление на наличностите"
+
+#~ msgid ""
+#~ "Stock can be brought in only through purchase orders and brought out only "
+#~ "through customer orders. You will be able to produce COGS reports with "
+#~ "the FIFO method and track product profitability."
+#~ msgstr ""
+#~ "Наличностите ще могат да бъдат увеличавани единствено чрез заявки за "
+#~ "доставка и намалявани чрез поръчки от клиенти. Ще може да генерирате "
+#~ "справки за себестойност на продажбите чрез метода на \"Първи входящ - "
+#~ "първи изходящ\", както и да проследявате доходността на отделните "
+#~ "продукти."
+
+#~ msgid "Use cookie for logged off visitors"
+#~ msgstr "Използвай cookie за нерегистрирани потребители"
+
+#~ msgid "Order instructions"
+#~ msgstr "Инструкции за доставката"
+
+#~ msgid "create account"
+#~ msgstr "регистриране"
+
+#~ msgid "There are missing fields. Please check and re-submit."
+#~ msgstr "Има липсващи полета. Проверете и изпратете отново."
+
+#~ msgid "Missing country"
+#~ msgstr "Липсва държава"
+
+#~ msgid "Order Number"
+#~ msgstr "Номер на поръчка"
+
+#~ msgid "Discounts and coupons"
+#~ msgstr "Отстъпки"
+
+#~ msgid "Ship to:"
+#~ msgstr "Доставка до:"
+
+#~ msgid "The product was added to your cart."
+#~ msgstr "Продуктът беше добавен в кошницата ви."
+
+#~ msgid "This product is already in your cart."
+#~ msgstr "Този продукт е вече във вашата кошница"
+
+#~ msgid "Not a valid product."
+#~ msgstr "Това не е валиден продукт."
+
+#~ msgid "Price:"
+#~ msgstr "Цена:"
+
+#~ msgid "You cannot use this shipping option."
+#~ msgstr "Не може да използвате този метод на доставка"
