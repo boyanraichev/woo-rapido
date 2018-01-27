@@ -59,7 +59,7 @@ class Wrapido_Init {
 		wp_register_script('wrapido', WRAPIDO_DIR_URL . 'assets/js/wrapido.js', [ 'jquery', 'jquery-ui-autocomplete' ], WRAPIDO_VERSION, true ); 
 		wp_enqueue_script('wrapido');
 		
-		wp_register_style( 'jquery-ui-styles','http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css' );
+		wp_register_style( 'jquery-ui-styles','//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css' );
 		wp_enqueue_style( 'jquery-ui-styles' );
 		
 		if (!is_admin()) {
